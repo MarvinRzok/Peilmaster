@@ -56,7 +56,7 @@ Dieses Set kann direkt bei mir erworben werden. Kontaktiere mich bitte via Mail:
   
 ### Sender
 
-<img src="Sender.png" width="500"> 
+<img src="Sender.png" width="1000"> 
 
 - **Modul:** Basierend auf dem MicRF112Y.
 - **Sendeleistung:** 10 mW.
