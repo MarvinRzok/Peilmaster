@@ -38,7 +38,7 @@ Dieses Set kann direkt bei mir erworben werden. Kontaktiere mich bitte via Mail:
 
 ### Empfänger
 
-<img src="Peiler.png" width="800">
+<img src="Peiler.jpg" width="1000">
 
 
 - **Chip:** Basierend auf dem SYN470R-Chip, einem kostengünstigen 433 MHz IMS-Chip, der einfach zu beschaffen ist. Der Einsatz dieses Chips ermöglicht einen unkomplizierten Aufbau des Parallel-Sender-Sets.
