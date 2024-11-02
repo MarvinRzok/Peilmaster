@@ -38,6 +38,9 @@ Dieses Set kann direkt bei mir erworben werden. Kontaktiere mich bitte via Mail:
 
 ### Empfänger
 
+<img src="RX.png" width="500">
+
+
 - **Chip:** Basierend auf dem SYN470R-Chip, einem kostengünstigen 433 MHz IMS-Chip, der einfach zu beschaffen ist. Der Einsatz dieses Chips ermöglicht einen unkomplizierten Aufbau des Parallel-Sender-Sets.
 - **Stromversorgung:** Wiederaufladbarer 18650-Akku, aufladbar über USB-C.
 - **Energieverwaltung:** Automatisches Einschalten beim Verbinden des 3,5 mm Klinkensteckers.
@@ -53,9 +56,15 @@ Dieses Set kann direkt bei mir erworben werden. Kontaktiere mich bitte via Mail:
   
 ### Sender
 
+<img src="Sender.png" width="500"> 
+
 - **Modul:** Basierend auf dem MicRF112Y.
 - **Sendeleistung:** 10 mW.
-- **Rufzeichenkonfiguration:** Der Sender kann über die Dip-Schalter in binärer Form auf verschiedene Rufzeichen eingestellt werden. Hier eine Übersicht der möglichen Einstellungen:
+- **Anschlüsse:** SMA-Stecker, der den Anschluss einer externen Antenne ermöglicht.
+- **Stromversorgung:** CR2477-Knopfzelle, die bequem über einen Halter auf der Rückseite gewechselt werden kann.
+- **Rufzeichenkonfiguration:** Der Sender kann über die Dip-Schalter in binärer Form auf verschiedene Rufzeichen eingestellt werden.
+
+ Hier eine Übersicht der möglichen Einstellungen:
 
 | Binäre Eingabe | Rufzeichen |
 |----------------|------------|
@@ -67,8 +76,6 @@ Dieses Set kann direkt bei mir erworben werden. Kontaktiere mich bitte via Mail:
 | `0101`         | MO5        |
 
 
-- **Anschlüsse:** SMA-Stecker, der den Anschluss einer externen Antenne ermöglicht.
-- **Stromversorgung:** CR2477-Knopfzelle, die bequem über einen Halter auf der Rückseite gewechselt werden kann.
 
 ---
 
